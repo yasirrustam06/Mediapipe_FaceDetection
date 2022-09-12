@@ -1,5 +1,6 @@
 # Mediapipe_FaceDetection Both in realtime and on static image 
-
+# install Mediapipe
+# install opencv-python
 
 
 
